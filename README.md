@@ -288,3 +288,7 @@ Rprof("profile.out")
 Rprof(NULL)
 summaryRprof("profile.out")
 ```
+
+# To install and run R codes in ide or in your local machine click -> 
+
+[![installtion.md](https://img.shields.io/badge/Installation-Guide-fff?logo=r&logoColor=black)](installation.md)
